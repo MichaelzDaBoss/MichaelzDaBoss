@@ -5,7 +5,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning how to make a good profile readme
 
-### Languages
+### Languages i know
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
